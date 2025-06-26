@@ -79,7 +79,5 @@ The `.exe` will be inside the `dist/` folder.
 - 🎞️ Animated transitions between screens
 
 ## Author
-
-Asifa Hamid Khan  
-📧 [Your Email Here]  
+Asifa Hamid Khan    
 🔗 GitHub: [github.com/asiiifa](https://github.com/asiiifa)
