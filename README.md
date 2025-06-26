@@ -81,3 +81,7 @@ The `.exe` will be inside the `dist/` folder.
 ## Author
 Asifa Hamid Khan    
 🔗 GitHub: [github.com/asiiifa](https://github.com/asiiifa)
+
+## License
+
+MIT License — Free for personal and commercial use.
