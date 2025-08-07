@@ -56,9 +56,10 @@ The `.exe` will be inside the `dist/` folder.
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
 
-## Usage
+
+## Usage<img width="1046" height="752" alt="Screenshot 2025-08-07 193335" src="https://github.com/user-attachments/assets/787de1fb-3334-49e5-8360-d1f890a35634" />
+
 
 1. Open the app — you'll see a splash screen.
 2. On the main screen, enter visitor details.
